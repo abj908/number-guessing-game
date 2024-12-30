@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/game_tests.dir/tests/guessing_game_tests.cpp.o CMakeFiles/game_tests.dir/src/guessing_game.cpp.o  -o game_tests  -lgtest -lgtest_main -lpthread 

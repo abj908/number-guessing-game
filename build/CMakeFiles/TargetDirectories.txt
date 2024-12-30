@@ -1,4 +1,0 @@
-/workspaces/number-guessing-game/build/CMakeFiles/rebuild_cache.dir
-/workspaces/number-guessing-game/build/CMakeFiles/game_tests.dir
-/workspaces/number-guessing-game/build/CMakeFiles/edit_cache.dir
-/workspaces/number-guessing-game/build/CMakeFiles/game.dir
