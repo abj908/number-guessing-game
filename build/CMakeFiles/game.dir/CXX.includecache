@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/guessing_game.h
+
+/workspaces/number-guessing-game/src/guessing_game.cpp
+guessing_game.h
+/workspaces/number-guessing-game/src/guessing_game.h
+iostream
+-
+
+/workspaces/number-guessing-game/src/main.cpp
+iostream
+-
+guessing_game.h
+/workspaces/number-guessing-game/src/guessing_game.h
+
